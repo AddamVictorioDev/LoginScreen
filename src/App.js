@@ -26,6 +26,7 @@ const App = () => {
     
     return (
     <>
+    
     {user ? (
     <>
     <h1>Welcome, {user.email}!</h1>
